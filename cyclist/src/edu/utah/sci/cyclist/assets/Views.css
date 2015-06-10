@@ -19,7 +19,7 @@
 .cyclist-panel .header {
 	-fx-background-color:  #e0e0e0;
 	-fx-font-weight: bold;
-	-fx-font-size:11;
+	-fx-font-size:22;
 	-fx-padding: 0;
 	-fx-border-radius: 10 3 0 0;
 }
@@ -52,7 +52,7 @@
 	-fx-background-radius: 4;
 	-fx-border-color: #b0b0b0;
 	-fx-font-weight: bold;
-	-fx-font-size:12;
+	-fx-font-size:24;
 	-fx-padding: 5;
 }
 
@@ -141,7 +141,7 @@
 }
 
 .inventory .title {
-	-fx-font-size: 11px;
+	-fx-font-size: 22px;
  	-fx-font-weight: bold;
  }
 
@@ -179,7 +179,7 @@
 
 .inventory .nuclide {
     -fx-pref-width: 120px;
-    -fx-font-size: 10px;
+    -fx-font-size: 20px;
 }
 
 /* 
@@ -225,7 +225,7 @@
  }
  
  .flow  .title {
-	-fx-font-size: 11px;
+	-fx-font-size: 22px;
  	-fx-font-weight: bold;
  }
  
@@ -322,7 +322,7 @@
  }
 
  .flow .fnode .header {
- 	-fx-font-size: 8px;	
+ 	-fx-font-size: 16px;	
  }
  
  .flow .connector {
@@ -334,7 +334,7 @@
 }
 
 .flow .connector-text {
-	-fx-font-size: 10px;		
+	-fx-font-size: 20px;		
 }
 
 .flow .check-box .box {
@@ -355,7 +355,7 @@
 	-fx-alternative-row-fill-visible: false;
 	-fx-vertical-grid-lines-visible: false;   	   	
 	-fx-horizontal-grid-lines-visible: false;  
-	-fx-tick-label-font-size: 6px;
+	-fx-tick-label-font-size: 12px;
 }
 
 .flow .finfo .chart-content {
@@ -417,7 +417,7 @@
  	-fx-border-radius: 3;
 }
 .flow .total {
-	-fx-font-size: 14px;
+	-fx-font-size: 28px;
 	-fx-font-weight: bold;
 }
 
@@ -530,14 +530,14 @@
 
  
  .node-header {
- 	-fx-font-size: 8px;	
- 	-fx-padding:1px;
+ 	-fx-font-size: 16px;	
+ 	-fx-padding:2px;
  }
  
  
 
 .connector-text {
-	-fx-font-size: 12px;		
+	-fx-font-size: 24px;		
 }
 /*
  * Line Charts
